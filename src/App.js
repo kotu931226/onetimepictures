@@ -1,9 +1,9 @@
 import './App.css';
-import Home from './main/Home.js';
+import Base from './main/Base.js';
 
 function App() {
   return (
-    <Home/>
+    <Base/>
   );
 }
 
